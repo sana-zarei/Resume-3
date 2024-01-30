@@ -17,3 +17,23 @@
     <li><input type="checkbox" checked> - [ ] Optimize Performance </li>
     <li><input type="checkbox" checked> - [ ] Regularly Update Content </li>
 </ul>
+
+<p align="center">
+  <strong>Desktop Mode + Light Theme</strong>
+</p>
+
+<p align="center">
+  <img src="Screenshot/ScreenShot1.jpg" width="50%" alt="Desktop Mode + Light Theme">
+</p>
+
+<p align="center">
+  <strong>Phone Mode + Light Theme</strong>
+</p>
+
+<p align="center">
+  <img src="Screenshot/ScreenShot2.png" width="50%" alt="Phone Mode + Light Theme">
+</p>
+
+<p align="center">
+  <strong>Phone Mode + Dark Theme</strong>
+</p>
