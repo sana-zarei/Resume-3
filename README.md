@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="Screenshot/ScreenShot1.jpg" width="50%" alt="Desktop Mode + Light Theme">
+  <img src="Screenshot/Screenshot1.jpg" width="50%" alt="Desktop Mode + Light Theme">
 </p>
 
 <p align="center">
@@ -37,5 +37,5 @@
 </p>
 
 <p align="center">
-  <img src="Screenshot/ScreenShot3.png" width="50%" alt="Phone Mode + Dark Theme">
+  <img src="Screenshot/Screenshot3.png" width="50%" alt="Phone Mode + Dark Theme">
 </p>
